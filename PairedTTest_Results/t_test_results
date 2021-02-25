@@ -1,0 +1,160 @@
+-----------------------------------------------------------------------------------------
+Testing Models:   M1: Bagging + DT uni-grams TF-IDF    M2: Bagging + SVM uni-grams TF-IDF
+Iteration # 10...
+Mean Accuracy rate of model M1: 0.7738 (+/- 0.0072)
+Mean Accuracy rate of model M2: 0.7871 (+/- 0.0062)
+t-statistic value is: -9.44997
+t-table value is: 2.7760000000000002
+The Null Hypothesis can be rejected. The two classifiers are statistically significant different.
+-----------------------------------------------------------------------------------------        
+Testing Models:   M1: Bagging + DT uni-grams TF-IDF    M2: Random Forest uni-grams TF-IDF        
+Iteration # 10...
+Mean Accuracy rate of model M1: 0.7760 (+/- 0.0096)
+Mean Accuracy rate of model M2: 0.7958 (+/- 0.0058)
+t-statistic value is: -13.85621
+t-table value is: 2.7760000000000002
+The Null Hypothesis can be rejected. The two classifiers are statistically significant different.
+-----------------------------------------------------------------------------------------
+Testing Models:   M1: Bagging + DT uni-grams TF-IDF    M2: Logistic Regression uni-grams BOW
+Iteration # 10...
+Mean Accuracy rate of model M1: 0.7752 (+/- 0.0102)
+Mean Accuracy rate of model M2: 0.7959 (+/- 0.0070)
+t-statistic value is: -9.98431
+t-table value is: 2.7760000000000002
+The Null Hypothesis can be rejected. The two classifiers are statistically significant different.
+-----------------------------------------------------------------------------------------
+Testing Models:   M1: Bagging + DT uni-grams TF-IDF    M2: SVM uni-grams TF-IDF
+Iteration # 10...
+Mean Accuracy rate of model M1: 0.7761 (+/- 0.0092)
+Mean Accuracy rate of model M2: 0.7955 (+/- 0.0076)
+t-statistic value is: -10.21591
+t-table value is: 2.7760000000000002
+The Null Hypothesis can be rejected. The two classifiers are statistically significant different.
+-----------------------------------------------------------------------------------------
+Testing Models:   M1: Bagging + SVM uni-grams TF-IDF    M2: Bagging + DT uni-grams TF-IDF
+Iteration # 10...
+Mean Accuracy rate of model M1: 0.7887 (+/- 0.0100)
+Mean Accuracy rate of model M2: 0.7763 (+/- 0.0080)
+t-statistic value is: 7.10327
+t-table value is: 2.7760000000000002
+The Null Hypothesis can be rejected. The two classifiers are statistically significant different.
+-----------------------------------------------------------------------------------------
+Testing Models:   M1: Bagging + SVM uni-grams TF-IDF    M2: Random Forest uni-grams TF-IDF
+Iteration # 10...
+Mean Accuracy rate of model M1: 0.7885 (+/- 0.0073)
+Mean Accuracy rate of model M2: 0.7943 (+/- 0.0062)
+t-statistic value is: -5.8358
+t-table value is: 2.7760000000000002
+The Null Hypothesis can be rejected. The two classifiers are statistically significant different.
+-----------------------------------------------------------------------------------------
+Testing Models:   M1: Bagging + SVM uni-grams TF-IDF    M2: Logistic Regression uni-grams BOW
+Iteration # 10...
+Mean Accuracy rate of model M1: 0.7884 (+/- 0.0082)
+Mean Accuracy rate of model M2: 0.7959 (+/- 0.0070)
+t-statistic value is: -6.16432
+t-table value is: 2.7760000000000002
+The Null Hypothesis can be rejected. The two classifiers are statistically significant different.
+-----------------------------------------------------------------------------------------
+Testing Models:   M1: Bagging + SVM uni-grams TF-IDF    M2: SVM uni-grams TF-IDF
+Iteration # 10...
+Mean Accuracy rate of model M1: 0.7884 (+/- 0.0073)
+Mean Accuracy rate of model M2: 0.7955 (+/- 0.0076)
+t-statistic value is: -3.8395
+t-table value is: 2.7760000000000002
+The Null Hypothesis can be rejected. The two classifiers are statistically significant different.
+-----------------------------------------------------------------------------------------
+Testing Models:   M1: Random Forest uni-grams TF-IDF    M2: Bagging + DT uni-grams TF-IDF
+Iteration # 10...
+Mean Accuracy rate of model M1: 0.7948 (+/- 0.0065)
+Mean Accuracy rate of model M2: 0.7756 (+/- 0.0077)
+t-statistic value is: 15.21525
+t-table value is: 2.7760000000000002
+The Null Hypothesis can be rejected. The two classifiers are statistically significant different.
+-----------------------------------------------------------------------------------------
+Testing Models:   M1: Random Forest uni-grams TF-IDF    M2: Bagging + SVM uni-grams TF-IDF
+Iteration # 10...
+Mean Accuracy rate of model M1: 0.7944 (+/- 0.0072)
+Mean Accuracy rate of model M2: 0.7887 (+/- 0.0084)
+t-statistic value is: 5.452
+t-table value is: 2.7760000000000002
+The Null Hypothesis can be rejected. The two classifiers are statistically significant different.
+-----------------------------------------------------------------------------------------
+Testing Models:   M1: Random Forest uni-grams TF-IDF    M2: Logistic Regression uni-grams BOW
+Iteration # 10...
+Mean Accuracy rate of model M1: 0.7936 (+/- 0.0075)
+Mean Accuracy rate of model M2: 0.7959 (+/- 0.0070)
+t-statistic value is: -1.64885
+t-table value is: 2.7760000000000002
+The t-statistic value does not lie in the rejection region.
+-----------------------------------------------------------------------------------------
+Testing Models:   M1: Random Forest uni-grams TF-IDF    M2: SVM uni-grams TF-IDF
+Iteration # 10...
+Mean Accuracy rate of model M1: 0.7945 (+/- 0.0061)
+Mean Accuracy rate of model M2: 0.7955 (+/- 0.0076)
+t-statistic value is: -0.75047
+t-table value is: 2.7760000000000002
+The t-statistic value does not lie in the rejection region.
+-----------------------------------------------------------------------------------------
+Testing Models:   M1: Logistic Regression uni-grams BOW    M2: Bagging + DT uni-grams TF-IDF
+Iteration # 10...
+Mean Accuracy rate of model M1: 0.7959 (+/- 0.0070)
+Mean Accuracy rate of model M2: 0.7735 (+/- 0.0081)
+t-statistic value is: 13.49734
+t-table value is: 2.7760000000000002
+The Null Hypothesis can be rejected. The two classifiers are statistically significant different.
+-----------------------------------------------------------------------------------------
+Testing Models:   M1: Logistic Regression uni-grams BOW    M2: Bagging + SVM uni-grams TF-IDF
+Iteration # 10...
+Mean Accuracy rate of model M1: 0.7959 (+/- 0.0070)
+Mean Accuracy rate of model M2: 0.7873 (+/- 0.0073)
+t-statistic value is: 7.69256
+t-table value is: 2.7760000000000002
+The Null Hypothesis can be rejected. The two classifiers are statistically significant different.
+-----------------------------------------------------------------------------------------
+Testing Models:   M1: Logistic Regression uni-grams BOW    M2: Random Forest uni-grams TF-IDF
+Iteration # 10...
+Mean Accuracy rate of model M1: 0.7959 (+/- 0.0070)
+Mean Accuracy rate of model M2: 0.7949 (+/- 0.0066)
+t-statistic value is: 0.85179
+t-table value is: 2.7760000000000002
+The t-statistic value does not lie in the rejection region.
+-----------------------------------------------------------------------------------------
+Testing Models:   M1: Logistic Regression uni-grams BOW    M2: SVM uni-grams TF-IDF
+Iteration # 10...
+Mean Accuracy rate of model M1: 0.7959 (+/- 0.0070)
+Mean Accuracy rate of model M2: 0.7955 (+/- 0.0076)
+t-statistic value is: 0.21275
+t-table value is: 2.7760000000000002
+The t-statistic value does not lie in the rejection region.
+-----------------------------------------------------------------------------------------
+Testing Models:   M1: SVM uni-grams TF-IDF    M2: Bagging + DT uni-grams TF-IDF
+Iteration # 10...
+Mean Accuracy rate of model M1: 0.7955 (+/- 0.0076)
+Mean Accuracy rate of model M2: 0.7753 (+/- 0.0078)
+t-statistic value is: 13.85388
+t-table value is: 2.7760000000000002
+The Null Hypothesis can be rejected. The two classifiers are statistically significant different.
+-----------------------------------------------------------------------------------------
+Testing Models:   M1: SVM uni-grams TF-IDF    M2: Bagging + SVM uni-grams TF-IDF
+Iteration # 10...
+Mean Accuracy rate of model M1: 0.7955 (+/- 0.0076)
+Mean Accuracy rate of model M2: 0.7888 (+/- 0.0081)
+t-statistic value is: 4.02692
+t-table value is: 2.7760000000000002
+The Null Hypothesis can be rejected. The two classifiers are statistically significant different.
+-----------------------------------------------------------------------------------------
+Testing Models:   M1: SVM uni-grams TF-IDF    M2: Random Forest uni-grams TF-IDF
+Iteration # 10...
+Mean Accuracy rate of model M1: 0.7955 (+/- 0.0076)
+Mean Accuracy rate of model M2: 0.7960 (+/- 0.0059)
+t-statistic value is: -0.28718
+t-table value is: 2.7760000000000002
+The t-statistic value does not lie in the rejection region.
+-----------------------------------------------------------------------------------------
+Testing Models:   M1: SVM uni-grams TF-IDF    M2: Logistic Regression uni-grams BOW
+Iteration # 10...
+Mean Accuracy rate of model M1: 0.7955 (+/- 0.0076)
+Mean Accuracy rate of model M2: 0.7959 (+/- 0.0070)
+t-statistic value is: -0.21275
+t-table value is: 2.7760000000000002
+The t-statistic value does not lie in the rejection region.

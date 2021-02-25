@@ -1,0 +1,40 @@
+[
+    {
+        "Num Features": 1450,
+        "BOW uni-grams Accuracy": 0.7225284889743969,
+        "BOW uni-grams Precision": 0.7277031225257541,
+        "BOW uni-grams Recall": 0.719763874022864,
+        "BOW uni-grams F1 Score": 0.7237045658290641,
+        "BOW bi-grams Accuracy": 0.722095604558236,
+        "BOW bi-grams Precision": 0.7276656784303207,
+        "BOW bi-grams Recall": 0.7187358131568538,
+        "BOW bi-grams F1 Score": 0.7231645565256413,
+        "TFIDF uni-grams Accuracy": 0.7530209412461151,
+        "TFIDF uni-grams Precision": 0.7566936581516447,
+        "TFIDF uni-grams Recall": 0.7529132844985267,
+        "TFIDF uni-grams F1 Score": 0.7547854090722291,
+        "TFIDF bi-grams Accuracy": 0.7427353115287849,
+        "TFIDF bi-grams Precision": 0.7470565822836155,
+        "TFIDF bi-grams Recall": 0.7416025266105999,
+        "TFIDF bi-grams F1 Score": 0.7443082339786958
+    },
+    {
+        "Num Features": 1451,
+        "BOW uni-grams Accuracy": 0.7225284889743969,
+        "BOW uni-grams Precision": 0.7277031225257541,
+        "BOW uni-grams Recall": 0.719763874022864,
+        "BOW uni-grams F1 Score": 0.7237045658290641,
+        "BOW bi-grams Accuracy": 0.722095604558236,
+        "BOW bi-grams Precision": 0.7276656784303207,
+        "BOW bi-grams Recall": 0.7187358131568538,
+        "BOW bi-grams F1 Score": 0.7231645565256413,
+        "TFIDF uni-grams Accuracy": 0.7530209412461151,
+        "TFIDF uni-grams Precision": 0.7566936581516447,
+        "TFIDF uni-grams Recall": 0.7529132844985267,
+        "TFIDF uni-grams F1 Score": 0.7547854090722291,
+        "TFIDF bi-grams Accuracy": 0.7427353115287849,
+        "TFIDF bi-grams Precision": 0.7470565822836155,
+        "TFIDF bi-grams Recall": 0.7416025266105999,
+        "TFIDF bi-grams F1 Score": 0.7443082339786958
+    }
+]
