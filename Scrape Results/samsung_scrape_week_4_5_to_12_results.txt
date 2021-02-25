@@ -1,0 +1,214 @@
+Looking for Tweets around [Alaska] : [63.588753,-154.493062,350km] ...
+
+no. of tweets scraped is 0
+time taken to complete is 0.01 mins
+Looking for Tweets around [Alabama] : [32.318231,-86.902298,350km] ...
+
+no. of tweets scraped is 70
+time taken to complete is 0.05 mins
+Looking for Tweets around [Arkansas] : [35.20105,-91.831833,350km] ...
+
+no. of tweets scraped is 100
+time taken to complete is 0.03 mins
+Looking for Tweets around [Arizona] : [34.048928,-111.093731,350km] ...
+
+no. of tweets scraped is 114
+time taken to complete is 0.02 mins
+Looking for Tweets around [California] : [36.778261,-119.417932,350km] ...
+
+no. of tweets scraped is 256
+time taken to complete is 0.13 mins
+Looking for Tweets around [Colorado] : [39.550051,-105.782067,350km] ...
+
+no. of tweets scraped is 265
+time taken to complete is 0.02 mins
+Looking for Tweets around [Costrict of Columbia] : [41.603221,-73.087749,350km] ...
+
+no. of tweets scraped is 617
+time taken to complete is 0.3 mins
+Looking for Tweets around [Dennecticut] : [38.910832,-75.52767,350km] ...
+
+no. of tweets scraped is 1010
+time taken to complete is 0.32 mins
+Looking for Tweets around [Dilaware] : [38.905985,-77.033418,350km] ...
+
+no. of tweets scraped is 1408
+time taken to complete is 0.9 mins
+Looking for Tweets around [Florida] : [27.664827,-81.515754,350km] ...
+
+no. of tweets scraped is 1461
+time taken to complete is 0.08 mins
+Looking for Tweets around [Georgia] : [32.157435,-82.907123,350km] ...
+
+no. of tweets scraped is 1540
+time taken to complete is 0.08 mins
+Looking for Tweets around [Hawaii] : [19.898682,-155.665857,350km] ...
+
+no. of tweets scraped is 1541
+time taken to complete is 0.02 mins
+Looking for Tweets around [Iowa] : [41.878003,-93.097702,350km] ...
+
+no. of tweets scraped is 1582
+time taken to complete is 0.04 mins
+Looking for Tweets around [Idaho] : [44.068202,-114.742041,350km] ...
+
+no. of tweets scraped is 1583
+time taken to complete is 0.02 mins
+Looking for Tweets around [Illinois] : [40.633125,-89.398528,350km] ...
+
+no. of tweets scraped is 1702
+time taken to complete is 0.1 mins
+Looking for Tweets around [Indiana] : [40.551217,-85.602364,350km] ...
+
+no. of tweets scraped is 1862
+time taken to complete is 0.12 mins
+Looking for Tweets around [Kansas] : [39.011902,-98.484246,350km] ...
+
+Rate limit reached. Sleeping for: 769
+no. of tweets scraped is 2006
+time taken to complete is 13.04 mins
+Looking for Tweets around [Kentucky] : [37.839333,-84.270018,350km] ...
+
+no. of tweets scraped is 2084
+time taken to complete is 0.06 mins
+Looking for Tweets around [Louisiana] : [31.244823,-92.145024,350km] ...
+
+no. of tweets scraped is 2160
+time taken to complete is 0.07 mins
+Looking for Tweets around [Massachusetts] : [42.407211,-71.382437,350km] ...
+
+no. of tweets scraped is 2454
+time taken to complete is 0.25 mins
+Looking for Tweets around [Maryland] : [39.045755,-76.641271,350km] ...
+
+no. of tweets scraped is 2853
+time taken to complete is 0.3 mins
+Looking for Tweets around [Maine] : [45.253783,-69.445469,350km] ...
+
+no. of tweets scraped is 2886
+time taken to complete is 0.03 mins
+Looking for Tweets around [Michigan] : [44.314844,-85.602364,350km] ...
+
+no. of tweets scraped is 2980
+time taken to complete is 0.08 mins
+Looking for Tweets around [Minnesota] : [46.729553,-94.6859,350km] ...
+
+no. of tweets scraped is 3007
+time taken to complete is 0.03 mins
+Looking for Tweets around [Missouri] : [37.964253,-91.831833,350km] ...
+
+no. of tweets scraped is 3072
+time taken to complete is 0.05 mins
+Looking for Tweets around [Mississippi] : [32.354668,-89.398528,350km] ...
+
+no. of tweets scraped is 3107
+time taken to complete is 0.03 mins
+Looking for Tweets around [Montana] : [46.879682,-110.362566,350km] ...
+
+no. of tweets scraped is 3111
+time taken to complete is 0.02 mins
+Looking for Tweets around [North Carolina] : [35.759573,-79.0193,350km] ...
+
+no. of tweets scraped is 3225
+time taken to complete is 0.08 mins
+Looking for Tweets around [North Dakota] : [47.551493,-101.002012,350km] ...
+
+no. of tweets scraped is 3236
+time taken to complete is 0.01 mins
+Looking for Tweets around [Nebraska] : [41.492537,-99.901813,350km] ...
+
+no. of tweets scraped is 3369
+time taken to complete is 0.14 mins
+Looking for Tweets around [New Hampshire] : [43.193852,-71.572395,350km] ...
+
+no. of tweets scraped is 3654
+time taken to complete is 0.23 mins
+Looking for Tweets around [New Jersey] : [40.058324,-74.405661,350km] ...
+
+Rate limit reached. Sleeping for: 810
+no. of tweets scraped is 4051
+time taken to complete is 13.89 mins
+Looking for Tweets around [New Mexico] : [34.97273,-105.032363,350km] ...
+
+no. of tweets scraped is 4061
+time taken to complete is 0.01 mins
+Looking for Tweets around [Nevada] : [38.80261,-116.419389,350km] ...
+
+no. of tweets scraped is 4092
+time taken to complete is 0.03 mins
+Looking for Tweets around [New York] : [43.299428,-74.217933,350km] ...
+
+no. of tweets scraped is 4428
+time taken to complete is 0.27 mins
+Looking for Tweets around [Ohio] : [40.417287,-82.907123,350km] ...
+
+no. of tweets scraped is 4553
+time taken to complete is 0.09 mins
+Looking for Tweets around [Oklahoma] : [35.007752,-97.092877,350km] ...
+
+no. of tweets scraped is 4611
+time taken to complete is 0.04 mins
+Looking for Tweets around [Oregon] : [43.804133,-120.554201,350km] ...
+
+no. of tweets scraped is 4634
+time taken to complete is 0.02 mins
+Looking for Tweets around [Pennsylvania] : [41.203322,-77.194525,350km] ...
+
+no. of tweets scraped is 5040
+time taken to complete is 0.31 mins
+Looking for Tweets around [Puerto Rico] : [18.220833,-66.590149,350km] ...
+
+no. of tweets scraped is 5045
+time taken to complete is 0.01 mins
+Looking for Tweets around [Rhode Island] : [41.580095,-71.477429,350km] ...
+
+no. of tweets scraped is 5376
+time taken to complete is 0.28 mins
+Looking for Tweets around [South Carolina] : [33.836081,-81.163725,350km] ...
+
+no. of tweets scraped is 5466
+time taken to complete is 0.07 mins
+Looking for Tweets around [South Dakota] : [43.969515,-99.901813,350km] ...
+
+no. of tweets scraped is 5468
+time taken to complete is 0.01 mins
+Looking for Tweets around [Tennessee] : [35.517491,-86.580447,350km] ...
+
+no. of tweets scraped is 5558
+time taken to complete is 0.07 mins
+Looking for Tweets around [Texas] : [31.968599,-99.901813,350km] ...
+
+Rate limit reached. Sleeping for: 810
+no. of tweets scraped is 5656
+time taken to complete is 13.66 mins
+Looking for Tweets around [Utah] : [39.32098,-111.093731,350km] ...
+
+no. of tweets scraped is 5664
+time taken to complete is 0.01 mins
+Looking for Tweets around [Virginia] : [37.431573,-78.656894,350km] ...
+
+no. of tweets scraped is 5814
+time taken to complete is 0.1 mins
+Looking for Tweets around [Vermont] : [44.558803,-72.577841,350km] ...
+
+no. of tweets scraped is 5895
+time taken to complete is 0.06 mins
+Looking for Tweets around [Washington] : [47.751074,-120.740139,350km] ...
+
+no. of tweets scraped is 5987
+time taken to complete is 0.06 mins
+Looking for Tweets around [Wisconsin] : [43.78444,-88.787868,350km] ...
+
+no. of tweets scraped is 6045
+time taken to complete is 0.05 mins
+Looking for Tweets around [West Virginia] : [38.597626,-80.454903,350km] ...
+
+no. of tweets scraped is 6216
+time taken to complete is 0.12 mins
+Looking for Tweets around [Wyoming] : [43.075968,-107.290284,350km] ...
+
+no. of tweets scraped is 6229
+time taken to complete is 0.01 mins
+---------------------------------------------
+Total no. of tweets without duplicates is [1543]
+time taken to complete is [45.85] mins

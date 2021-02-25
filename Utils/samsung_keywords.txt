@@ -1,0 +1,1 @@
+samsung OR @SamsungSupport OR @Samsung OR @SamsungUS OR @SamsungMobileUS OR @SamsungMobile (camera OR phone OR smartphone OR mobile OR device OR amoled OR dislay OR screen OR watch) -T-mobile -peacockTV -Peacock -Microsoft -surface -giveaway -Pixel -Unboxing -protector -iPhone -Trump -ios -apple -LG -motorola -surface -filter:retweets
